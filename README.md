@@ -1,1 +1,1 @@
-# A sample User Auth Project with NestJS, GraphQL, MongoDb
+# A simple User Auth Project with NestJS, GraphQL, MongoDb
