@@ -1,1 +1,1 @@
-# The Dream Centre Digital Church
+# A sample User Auth Project with NestJS, GraphQL, MongoDb
